@@ -1,0 +1,7 @@
+com\wstevens\gameoflife\GameOfLife.class
+com\wstevens\gameoflife\Grid.class
+com\wstevens\gameoflife\CellTest.class
+com\wstevens\gameoflife\GridTest.class
+com\wstevens\gameoflife\Cell.class
+com\wstevens\gameoflife\UpdateTest.class
+com\wstevens\gameoflife\Cell$CellState.class
